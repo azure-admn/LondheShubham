@@ -1,0 +1,23 @@
+version: "3.8"
+
+services:
+  web:
+    image: ubuntu:latest
+    deploy:
+      replicas: 2
+    ports:
+      - "8086-8090:8080"
+    volumes:
+      - volume1:/app
+
+  db:
+    image: mongo:latest
+    ports:
+      - "8001:27017"
+    volumes:
+      - volume1:/app
+
+volumes:
+  volume1:
+    external: true
+
