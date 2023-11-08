@@ -1,6 +1,4 @@
-# Day 4 Task: Basic Linux Shell Scripting for DevOps Engineers.
-
-## What is Kernel
+# What is Kernel
 
 The kernel is a computer program that is the core of a computer’s operating system, with complete control over everything in the system.
 
@@ -67,11 +65,3 @@ else
 fi
 Was it difficult?
 its little hard that python because shell scripting have complex syntax compering to python and javascript
-
-- Post about it on LinkedIn and Let me know :)
-
-Article Reference: [Click here to read basic Linux Shell Scripting](https://devopscube.com/linux-shell-scripting-for-devops/)
-
-YouTube Video: [EASIEST Shell Scripting Tutorial for DevOps Engineers](https://www.youtube.com/watch?v=_-D6gkRj7xc&list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh&index=3)
-
-[← Previous Day](../day03/README.md) | [Next Day →](../day05/README.md)
